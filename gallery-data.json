@@ -1,0 +1,319 @@
+{
+  "site": {
+    "title": "alexkuenzi.com",
+    "subtitle": "Jefferson Wilderness",
+    "tagline": "Off the road in Oregon"
+  },
+  "hero": [
+    {
+      "id": "hero-1",
+      "src": "images/hero-1.jpg",
+      "alt": "Golden hour over alpine meadow",
+      "caption": "ALPINE LIGHT — Sierra Nevada, California",
+      "placeholder": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=80"
+    },
+    {
+      "id": "hero-2",
+      "src": "images/hero-2.jpg",
+      "alt": "Misty canyon at dawn",
+      "caption": "CANYON MIST — Zion National Park, Utah",
+      "placeholder": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920&q=80"
+    },
+    {
+      "id": "hero-3",
+      "src": "images/hero-3.jpg",
+      "alt": "Storm over volcanic peaks",
+      "caption": "STORM CROWN — Cascade Range, Oregon",
+      "placeholder": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1920&q=80"
+    },
+    {
+      "id": "hero-4",
+      "src": "images/hero-4.jpg",
+      "alt": "Arctic tundra under aurora",
+      "caption": "NORTHERN FIRE — Yukon Territory, Canada",
+      "placeholder": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1920&q=80"
+    },
+    {
+      "id": "hero-5",
+      "src": "images/hero-5.jpg",
+      "alt": "Desert sandstone formations at dusk",
+      "caption": "RED EARTH — Monument Valley, Arizona",
+      "placeholder": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1920&q=80"
+    },
+    {
+      "id": "hero-6",
+      "src": "images/hero-6.jpg",
+      "alt": "Glacial lake reflection at sunrise",
+      "caption": "MIRROR LAKE — Banff, Alberta",
+      "placeholder": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1920&q=80"
+    }
+  ],
+  "featured": [
+    {
+      "id": "feat-1",
+      "src": "images/featured-1.jpg",
+      "alt": "Santiam Lake",
+      "caption": "Santiam Lake, Oregon",
+      "placeholder": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&q=80"
+    },
+    {
+      "id": "feat-2",
+      "src": "images/featured-2.jpg",
+      "alt": "Ancient redwood forest floor",
+      "caption": "OLD GROWTH — Muir Woods, California",
+      "placeholder": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80"
+    },
+    {
+      "id": "feat-3",
+      "src": "images/featured-3.jpg",
+      "alt": "High alpine snow field traverse",
+      "caption": "SNOWFIELD — Rocky Mountain NP, Colorado",
+      "placeholder": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80"
+    },
+    {
+      "id": "feat-4",
+      "src": "images/featured-4.jpg",
+      "alt": "Slot canyon light beams",
+      "caption": "ANTELOPE LIGHT — Page, Arizona",
+      "placeholder": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=800&q=80"
+    },
+    {
+      "id": "feat-5",
+      "src": "images/featured-5.jpg",
+      "alt": "Wildflower superbloom valley",
+      "caption": "SUPERBLOOM — Death Valley, California",
+      "placeholder": "https://images.unsplash.com/photo-1490750967868-88df5691cc35?w=800&q=80"
+    },
+    {
+      "id": "feat-6",
+      "src": "images/featured-6.jpg",
+      "alt": "River bend through autumn forest",
+      "caption": "FALL RIVER — White Mountains, NH",
+      "placeholder": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "id": "feat-7",
+      "src": "images/featured-7.jpg",
+      "alt": "Lightning over butte formations",
+      "caption": "STORM LIGHT — Badlands, South Dakota",
+      "placeholder": "https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=800&q=80"
+    },
+    {
+      "id": "feat-8",
+      "src": "images/featured-8.jpg",
+      "alt": "Kelp forest underwater cathedral",
+      "caption": "KELP FOREST — Channel Islands, CA",
+      "placeholder": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=800&q=80"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "src": "images/gallery-1.jpg",
+      "alt": "Tidal pool at low tide",
+      "caption": "Tidal cosmos, Mendocino Coast",
+      "span": "wide",
+      "placeholder": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80"
+    },
+    {
+      "id": "gal-2",
+      "src": "images/gallery-2.jpg",
+      "alt": "Mountain goat on cliff ledge",
+      "caption": "Edge walker, Glacier NP",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1551524163-d28a2fe2a11e?w=800&q=80"
+    },
+    {
+      "id": "gal-3",
+      "src": "images/gallery-3.jpg",
+      "alt": "Autumn aspen grove in fog",
+      "caption": "Aspen cathedral, Colorado Rockies",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&q=80"
+    },
+    {
+      "id": "gal-4",
+      "src": "images/gallery-4.jpg",
+      "alt": "Lone pine on granite dome",
+      "caption": "Sentinel, Yosemite Highlands",
+      "span": "tall",
+      "placeholder": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=800&q=80"
+    },
+    {
+      "id": "gal-5",
+      "src": "images/gallery-5.jpg",
+      "alt": "Salt flat reflections at dusk",
+      "caption": "Infinite mirror, Salar de Uyuni",
+      "span": "wide",
+      "placeholder": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=1200&q=80"
+    },
+    {
+      "id": "gal-6",
+      "src": "images/gallery-6.jpg",
+      "alt": "Osprey diving for fish",
+      "caption": "Plunge, Yellowstone River",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=800&q=80"
+    },
+    {
+      "id": "gal-7",
+      "src": "images/gallery-7.jpg",
+      "alt": "Lava entering the ocean",
+      "caption": "Birth of land, Kilauea, Hawaii",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1571019613531-d4429fe79f0f?w=800&q=80"
+    },
+    {
+      "id": "gal-8",
+      "src": "images/gallery-8.jpg",
+      "alt": "Milky way over stone arch",
+      "caption": "Arch of cosmos, Arches NP",
+      "span": "wide",
+      "placeholder": "https://images.unsplash.com/photo-1475274047050-1d0c0975864c?w=1200&q=80"
+    },
+    {
+      "id": "gal-9",
+      "src": "images/gallery-9.jpg",
+      "alt": "Grizzly bear in river",
+      "caption": "Patience, Brooks Falls Alaska",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1530143584546-02191bc84eb5?w=800&q=80"
+    },
+    {
+      "id": "gal-10",
+      "src": "images/gallery-10.jpg",
+      "alt": "Cypress trees in still swamp",
+      "caption": "Bayou silence, Atchafalaya Basin",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1516912481808-3406841bd33c?w=800&q=80"
+    },
+    {
+      "id": "gal-11",
+      "src": "images/gallery-11.jpg",
+      "alt": "Petrified wood detail texture",
+      "caption": "Ancient rings, Petrified Forest AZ",
+      "span": "tall",
+      "placeholder": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?w=800&q=80"
+    },
+    {
+      "id": "gal-12",
+      "src": "images/gallery-12.jpg",
+      "alt": "Waterfall cascade over mossy rocks",
+      "caption": "Green falls, Hoh Rainforest WA",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&q=80"
+    },
+    {
+      "id": "gal-13",
+      "src": "images/gallery-13.jpg",
+      "alt": "Prairie grass at golden hour",
+      "caption": "Sea of grass, Flint Hills Kansas",
+      "span": "wide",
+      "placeholder": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200&q=80"
+    },
+    {
+      "id": "gal-14",
+      "src": "images/gallery-14.jpg",
+      "alt": "Ice cave blue light",
+      "caption": "Crystal hollow, Vatnajökull Iceland",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80"
+    },
+    {
+      "id": "gal-15",
+      "src": "images/gallery-15.jpg",
+      "alt": "Sandhill cranes in flight",
+      "caption": "Migration, Platte River Nebraska",
+      "span": "normal",
+      "placeholder": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&q=80"
+    },
+    {
+      "id": "gal-16",
+      "src": "images/gallery-16.jpg",
+      "alt": "Desert dunes at blue hour",
+      "caption": "Silence dunes, Great Sand Dunes CO",
+      "span": "wide",
+      "placeholder": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=80"
+    }
+  ],
+  "pages": [
+    {
+      "id": "page1",
+      "file": "page1.html",
+      "title": "PATAGONIA TRAVERSE",
+      "subtitle": "Torres del Paine — Patagonia, Chile",
+      "description": "Three weeks at the end of the earth. Wind-sculpted granite towers, electric-blue icebergs, and pumas at dusk. This is the light that haunts you.",
+      "hero": {
+        "src": "images/p1-hero.jpg",
+        "alt": "Torres del Paine granite towers",
+        "placeholder": "https://images.unsplash.com/photo-1501179691627-eeaa65ea017c?w=1920&q=80"
+      },
+      "gallery": [
+        { "src": "images/p1-1.jpg", "caption": "The towers at dawn", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=1200&q=80" },
+        { "src": "images/p1-2.jpg", "caption": "Grey Glacier terminus", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80" },
+        { "src": "images/p1-3.jpg", "caption": "Guanaco at sunrise", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=800&q=80" },
+        { "src": "images/p1-4.jpg", "caption": "Lake Pehoé reflections", "span": "tall", "placeholder": "https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?w=800&q=80" },
+        { "src": "images/p1-5.jpg", "caption": "Condor soaring the thermals", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1548366086-7f1b76106622?w=800&q=80" },
+        { "src": "images/p1-6.jpg", "caption": "Wind-bent lenga beech forest", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80" },
+        { "src": "images/p1-7.jpg", "caption": "Iceberg graveyard, Lake Grey", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1200&q=80" },
+        { "src": "images/p1-8.jpg", "caption": "Camp at Rio Serrano", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?w=800&q=80" },
+        { "src": "images/p1-9.jpg", "caption": "Andean fox at twilight", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=800&q=80" },
+        { "src": "images/p1-10.jpg", "caption": "Milodon Cave ancient walls", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=800&q=80" },
+        { "src": "images/p1-11.jpg", "caption": "Patagonian pampas at dusk", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200&q=80" },
+        { "src": "images/p1-12.jpg", "caption": "Final light on Los Cuernos", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80" }
+      ]
+    },
+    {
+      "id": "page2",
+      "file": "page2.html",
+      "title": "ALASKA INTERIOR",
+      "subtitle": "Denali & the Brooks Range — Alaska",
+      "description": "Vast silence broken only by the crack of a glacier. The last great wilderness, where scale defeats language and light defies description.",
+      "hero": {
+        "src": "images/p2-hero.jpg",
+        "alt": "Denali peak above clouds",
+        "placeholder": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1920&q=80"
+      },
+      "gallery": [
+        { "src": "images/p2-1.jpg", "caption": "Denali summit glow", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80" },
+        { "src": "images/p2-2.jpg", "caption": "Wolf pack crossing tundra", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=800&q=80" },
+        { "src": "images/p2-3.jpg", "caption": "Aurora over Fairbanks", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800&q=80" },
+        { "src": "images/p2-4.jpg", "caption": "Caribou migration river crossing", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1501179691627-eeaa65ea017c?w=1200&q=80" },
+        { "src": "images/p2-5.jpg", "caption": "Grizzly and cubs on ridgeline", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1530143584546-02191bc84eb5?w=800&q=80" },
+        { "src": "images/p2-6.jpg", "caption": "Brooks Range reflected at midnight", "span": "tall", "placeholder": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80" },
+        { "src": "images/p2-7.jpg", "caption": "Float plane on a remote lake", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80" },
+        { "src": "images/p2-8.jpg", "caption": "Moose in boreal lake", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80" },
+        { "src": "images/p2-9.jpg", "caption": "Glacier crevasse blue", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=80" },
+        { "src": "images/p2-10.jpg", "caption": "Fireweed autumn color", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1490750967868-88df5691cc35?w=800&q=80" },
+        { "src": "images/p2-11.jpg", "caption": "Dall sheep on scree slope", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1551524163-d28a2fe2a11e?w=800&q=80" },
+        { "src": "images/p2-12.jpg", "caption": "River braids from above", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200&q=80" }
+      ]
+    },
+    {
+      "id": "page3",
+      "file": "page3.html",
+      "title": "AMERICAN SOUTHWEST",
+      "subtitle": "Canyon Country — Utah, Arizona & Nevada",
+      "description": "Ancient stone and impossible color. The Colorado Plateau holds two billion years of Earth's story in its walls, and the light rewrites it daily.",
+      "hero": {
+        "src": "images/p3-hero.jpg",
+        "alt": "Grand Canyon at golden hour",
+        "placeholder": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1920&q=80"
+      },
+      "gallery": [
+        { "src": "images/p3-1.jpg", "caption": "Horseshoe Bend dawn light", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1200&q=80" },
+        { "src": "images/p3-2.jpg", "caption": "Coyote Buttes wave formation", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&q=80" },
+        { "src": "images/p3-3.jpg", "caption": "Zion narrows slot canyon", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80" },
+        { "src": "images/p3-4.jpg", "caption": "Mesa Arch sunrise glow", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80" },
+        { "src": "images/p3-5.jpg", "caption": "Monument Valley buttes", "span": "tall", "placeholder": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80" },
+        { "src": "images/p3-6.jpg", "caption": "Bryce Canyon hoodoos snow", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=80" },
+        { "src": "images/p3-7.jpg", "caption": "Slot canyon light shaft", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=800&q=80" },
+        { "src": "images/p3-8.jpg", "caption": "Desert bighorn sheep", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1551524163-d28a2fe2a11e?w=800&q=80" },
+        { "src": "images/p3-9.jpg", "caption": "Goblin Valley last light", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1475274047050-1d0c0975864c?w=800&q=80" },
+        { "src": "images/p3-10.jpg", "caption": "Colorado River winding red", "span": "wide", "placeholder": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80" },
+        { "src": "images/p3-11.jpg", "caption": "Paria Canyon walls", "span": "normal", "placeholder": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=800&q=80" },
+        { "src": "images/p3-12.jpg", "caption": "Joshua Tree night sky", "span": "tall", "placeholder": "https://images.unsplash.com/photo-1475274047050-1d0c0975864c?w=800&q=80" }
+      ]
+    }
+  ]
+}
